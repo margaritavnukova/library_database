@@ -1,0 +1,11 @@
+E:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\bin\Debug\ClassLibraryDB.dll
+E:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\bin\Debug\ClassLibraryDB.pdb
+E:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\obj\Debug\ClassLibraryDB.csproj.CoreCompileInputs.cache
+E:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\obj\Debug\ClassLibraryDB.dll
+E:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\obj\Debug\ClassLibraryDB.pdb
+D:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\obj\Debug\ClassLibraryDB.csproj.AssemblyReference.cache
+D:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\obj\Debug\ClassLibraryDB.csproj.CoreCompileInputs.cache
+D:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\obj\Debug\ClassLibraryDB.dll
+D:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\obj\Debug\ClassLibraryDB.pdb
+D:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\bin\Debug\ClassLibraryDB.dll
+D:\курсач ТРЗБД\ClassLibraryDB\ClassLibraryDB\bin\Debug\ClassLibraryDB.pdb
